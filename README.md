@@ -1,2 +1,2 @@
 # AlfaFemales
-Git exercise with power girls!
+Git exercise to handle errors
